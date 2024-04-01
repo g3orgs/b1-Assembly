@@ -2,9 +2,9 @@
 ## Material ##
 
 
-| Schraube | M3x12 | M3x20 | M3x 35 | Pads |
-| :---:   | :---: | :---: | :---: |:---: |
-| Anzahl  | 8 | 6  | 2 |  12 | 
+| Schraube | M3x12 | M3x20 | M3x 35 |
+| :---:   | :---: | :---: | :---: |
+| Anzahl  | 8 | 6  | 2 | 
 
 Sind im Lieferumfang vorhanden.
 
