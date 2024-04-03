@@ -4,7 +4,7 @@
 
 | Schraube | M3x12 | M3x20 | M3x 35 |
 | :---:   | :---: | :---: | :---: |
-| Anzahl  | 8 | 6  | 2 | 
+| Anzahl  | 12 | 6  | 3 | 
 
 Sind im Lieferumfang vorhanden.
 
@@ -15,7 +15,7 @@ Sind im Lieferumfang vorhanden.
 ## Aufbauanleitung: ##
 
 **Positionierung der Stege:**
-- Achten Sie darauf, dass die Stege so eingebaut werden, dass die schrägen Kanten oben sind und sich somit in der Flucht der Seitenteile befinden.
+- Achten Sie darauf, dass die Stege so eingebaut werden, dass die schrägen Kanten oben sind und sich somit in der Flucht der Seitenteile befinden. (**Position F**)
 
 **Anziehen der Schrauben:**
 - Ziehen Sie die Schrauben nur handfest an, um eine angemessene Stabilität zu gewährleisten.
@@ -36,10 +36,12 @@ Alle Schrauben von **oben** und **hinten** sind M3x12. Für den Imbusschlüssel 
 ![Alt text](pics/PXL_20240324_134721901_t.jpg?raw=true "Title")
 
 - **Schraubenmontage von Innen nach Außen:**
-  - Zur Montage von drei Teilen – einem kurzen Steg, einem Seitenteil und einem langen Steg – verwenden Sie M3x35 Schrauben. Diese werden von innen nach außen geschraubt.
+  - Zur Montage von drei Teilen – einem langen Steg, einem Seitenteil und einem langen Steg – verwenden Sie M3x35 Schrauben. Diese werden von innen nach außen geschraubt.
 
 - **Gewindehülsen und Durchgangslöcher:**
-  - In einer längeren Strebe werden keine Gewindehülsen verwendet, sondern nur Durchgangslöcher. Die Gewindehülsen sind stattdessen im kurzen Steg (40 mm lang) eingelassen. (**Position C**)
+  - In einer  Strebe werden keine Gewindehülsen verwendet, sondern nur Durchgangslöcher. (**Position C**)
 
 
 ![Alt text](pics/PXL_20240324_134640415_t.jpg?raw=true "Title")
+
+
