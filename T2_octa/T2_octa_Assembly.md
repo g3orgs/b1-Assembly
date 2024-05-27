@@ -1,4 +1,4 @@
-# Aufbauanleitung T2_ext #
+# Aufbauanleitung T2_octa #
 ## Material ##
 
 
