@@ -2,7 +2,7 @@
 ## Material ##
 
 
-| Schraube | M3x12 | M3x20 | M3x 30 | Pads |
+| Schraube | M3x12 | M3x20 | M3x 35 | Pads |
 | :---:   | :---: | :---: | :---: | :---: |
 | Anzahl  | 12 | 6  | 3 | 12 |
 
