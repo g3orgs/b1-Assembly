@@ -2,6 +2,11 @@
 ## Material ##
 
 
+Anleitung dazu findet ihr hier. 
+
+https://youtu.be/INyY0__D8Ug
+
+
 | Schraube | M3x12 | M3x20 | Pads | 
 | :---:   | :---: | :---: | :---: |
 | Anzahl  | 8 | 6  |  8 |
