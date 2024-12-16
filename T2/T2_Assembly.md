@@ -6,6 +6,15 @@ Anleitung dazu findet ihr hier.
 
 https://youtu.be/INyY0__D8Ug
 
+<object width="425" height="350">
+  <param name="movie" value="https://youtu.be/INyY0__D8Ug" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://youtu.be/INyY0__D8Ug"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
+
 
 | Schraube | M3x12 | M3x20 | Pads | 
 | :---:   | :---: | :---: | :---: |
