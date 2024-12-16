@@ -1,4 +1,3 @@
-
 ## Assembly Guide T2 ext  ##
 ## Materials ##
 
