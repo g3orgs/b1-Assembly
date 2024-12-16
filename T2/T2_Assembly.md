@@ -1,3 +1,6 @@
+
+[Go to german Version ](#german)
+
 # Assembly Guide T2 #
 ## Materials ##
 
@@ -39,7 +42,7 @@ All screws inserted from **above** and **behind** are M3x12. Pre-drilled holes a
 
 
 
-# Aufbauanleitung T2 #
+## Aufbauanleitung T2 <a id="german"></a> ##
 ## Material ##
 
 
