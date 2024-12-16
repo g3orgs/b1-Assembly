@@ -1,8 +1,67 @@
-# Aufbauanleitung T2_octa #
+[Go to german Version ](#german)
+
+# Assembly Guide T2_octa #
+## Materials ##
+
+You can find a video tutorial here:
+
+https://youtu.be/T2tqsFW7MQ8
+
+| Screw    | M3x12 | M3x20 | M3x30 | Pads |
+| :---:    | :---: | :---: | :---: | :---: |
+| Quantity | 12    | 6    | 3    | 12   |
+
+These are included in the delivery package.
+
+## Tools ## 
+- 2.5mm Allen key  
+
+## Assembly Instructions: ##
+
+**Parts Check**  
+- Check the parts for completeness.
+
+![Alt text](pics/T2_01_t.jpg?raw=true "Title")
+![Alt text](pics/T2_02_t.jpg?raw=true "Title")
+
+- Assemble the parts using the M3x12 screws so that the middle sections look like the image shown. A 2.5mm Allen key is suitable for all screws.
+
+Four screws are needed per completed middle section. Tighten the screws hand-tight only to ensure optimal stability.
+
+![Alt text](pics/T2_03_t.jpg?raw=true "Title")
+![Alt text](pics/T2_04_t.jpg?raw=true "Title")
+![Alt text](pics/T2_05_t.jpg?raw=true "Title")
+Repeat this assembly step for all 3 beams.
+![Alt text](pics/T2_06_t.jpg?raw=true "Title")
+
+Now, the braces will be installed so that the labeling on the right and left sides is visible.
+
+    Make sure the braces are positioned so that the slanted edges are facing upward and are aligned with the side panels.
+
+![Alt text](pics/T2_07_t.jpg?raw=true "Title")
+
+**Screw Installation from Inside to Outside:**
+- For assembling three parts – a long brace, a side panel, and another long brace – use M3x30 screws. These screws are inserted from inside to outside. Make sure that the three braces with only a pressed-in threaded insert are mounted on either the right or left side.
+
+![Alt text](pics/T2_08_t.jpg?raw=true "Title")
+![Alt text](pics/T2_09_t.jpg?raw=true "Title")
+![Alt text](pics/T2_10_t.jpg?raw=true "Title")
+
+- The lateral parts are fastened with M3x20 screws from the outside.
+
+- **Screw Installation from Inside to Outside:**
+  - For assembling three parts – a long brace, a side panel, and a long brace – use M3x30 screws. These screws are inserted from inside to outside. This means that the 3 braces, which only have a pressed-in threaded insert, must be mounted on the right side.
+
+
+
+# Aufbauanleitung T2_octa  <a id="german"></a>  #
 ## Material ##
 
+Eine Videoanleitung dazu findet ihr hier. 
 
-| Schraube | M3x12 | M3x20 | M3x 35 | Pads |
+https://youtu.be/T2tqsFW7MQ8
+
+| Schraube | M3x12 | M3x20 | M3x 30 | Pads |
 | :---:   | :---: | :---: | :---: | :---: |
 | Anzahl  | 12 | 6  | 3 | 12 |
 
@@ -39,7 +98,7 @@ Nun werden die Stege so eingebaut, dass die Beschriftung auf der rechten und lin
  
 
  **Schraubenmontage von Innen nach Außen:**
-- Zur Montage von drei Teilen – einem langen Steg, einem Seitenteil und einem weiteren langen Steg – verwende M3x35-Schrauben. Diese werden von innen nach außen verschraubt. Dabei ist darauf zu achten, dass die drei Stege, die nur eine eingepresste Gewindehülse haben, entweder auf der rechten oder der linken Seite montiert werden.
+- Zur Montage von drei Teilen – einem langen Steg, einem Seitenteil und einem weiteren langen Steg – verwende M3x30-Schrauben. Diese werden von innen nach außen verschraubt. Dabei ist darauf zu achten, dass die drei Stege, die nur eine eingepresste Gewindehülse haben, entweder auf der rechten oder der linken Seite montiert werden.
 
 ![Alt text](pics/T2_08_t.jpg?raw=true "Title")
 ![Alt text](pics/T2_09_t.jpg?raw=true "Title")
