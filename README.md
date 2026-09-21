@@ -7,9 +7,9 @@ Assembly Guide [T2_ext (PDF, EN / DE)](T2_ext/)
 
 Assembly Guide [T2_octa (PDF, EN / DE)](T2_octa/)
 
-Kryptex [Measurement-Tutorial-FeltProtect.md](Measurement-Tutorial-FeltProtect/Measurement-Tutorial-FeltProtect.md)
+[Measurement-Tutorial](Measurement-Tutorial-FeltProtect/Measurement-Tutorial-FeltProtect.md)
 
-Felt Protect Mesurement [Kryptex_coding.md](Kryptex/Kryptex_coding.md)
+[Kryptex - Coding instructions](Kryptex/Kryptex_coding.md)
 
 
 ## T2 - Assembly instructions / Aufbauanleitung
