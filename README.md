@@ -1,7 +1,7 @@
 # b1-Assembly
 Stand Assembly
 
-Assembly Guide [T2_Assembly.md](T2/T2_Assembly.md)
+Assembly Guide [T2 (PDF, EN / DE)](T2/)
 
 Assembly Guide [T2_ext_Assembly.md](T2_ext/T2_ext_Assembly.md) 
 
@@ -14,7 +14,7 @@ Felt Protect Mesurement [Kryptex_coding.md](Kryptex/Kryptex_coding.md)
 
 ## T2 - Assembly instructions / Aufbauanleitung
 
-[Open the T2 assembly guide / T2-Aufbauanleitung öffnen](T2/T2_Assembly.md)
+[Open the T2 folder / T2-Ordner öffnen](T2/)
 
 [Download the EN / DE assembly instructions (PDF, version 1.0)](T2/T2_Assembly_EN_DE.pdf)
 
