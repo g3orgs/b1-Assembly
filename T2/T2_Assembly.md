@@ -1,90 +1,49 @@
+# T2 Assembly Guide
 
-[Go to german Version ](#german)
+[Deutsch](#german)
 
-# Assembly Guide T2 #
-## Materials ##
+## Assembly instructions (PDF)
 
-You can find the instructions here:
+**[Open the T2 assembly instructions - EN / DE, version 1.0](T2_Assembly_EN_DE.pdf)**
 
-https://youtu.be/INyY0__D8Ug
+The illustrated guide contains the complete assembly sequence, screw details, crossbar orientation and silicone pad positions on one A4 page. English is the primary language, with German below each instruction.
 
-| Screw    | M3x12 | M3x20 | Pads |
-| :---:    | :---: | :---: | :---: |
-| Quantity | 8     | 6     | 8    |
+**Print at 100% / actual size on A4 paper.**
 
-These are included in the delivery package.
+[Download the PDF directly](T2_Assembly_EN_DE.pdf?raw=true)
 
-## Tools ## 
-- 2.5mm Allen key 
+## Included hardware and tool
 
-## Assembly Instructions: ##
+| Item | Quantity |
+| :--- | ---: |
+| M3×12 socket head screws | 8 |
+| M3×20 socket head screws | 6 |
+| Self-adhesive silicone pads, Ø 8 mm | 8 |
 
-**Positioning the Braces:**
-- Ensure that the braces are installed with the slanted edges facing upward, aligning with the side panels. (**Position G**)
+Use a 2.5 mm hex key (90×50 mm). Tighten all screws hand-tight.
 
-![Alt text](pics/Steg_Einbaurichtung_G.jpg?raw=true "Title")
+[Assembly video](https://youtu.be/INyY0__D8Ug)
 
-**Tightening the Screws:**
-- Tighten the screws hand-tight only to ensure adequate stability.
+<a id="german"></a>
 
-![Alt text](pics/T2_NG.jpg?raw=true "Title")
+## T2 Aufbauanleitung
 
-**Using the Screws:**
-- All screws used horizontally, to connect only two parts, should be M3x20 screws. (**Position A**)
+**[Bebilderte Aufbauanleitung öffnen - EN / DE, Version 1.0](T2_Assembly_EN_DE.pdf)**
 
-![Alt text](pics/Setenansicht_20_F.jpg?raw=true "Title")
+Die Anleitung zeigt die vollständige Bausteinfolge, Schraubendetails, Einbaurichtung der Stege und Positionen der Silikonpads auf einer A4-Seite. Englisch steht jeweils zuerst, Deutsch direkt darunter.
 
-All screws inserted from **above** and **behind** are M3x12. Pre-drilled holes are provided through the entire component for the Allen key. (**Position B and D**)
+**Auf A4 mit 100 % / tatsächlicher Größe drucken.**
 
-![Alt text](pics/PXL_20240324_134715616_t.jpg?raw=true "Title")
-![Alt text](pics/Setenansicht_12_D.jpg?raw=true "Title")
-![Alt text](pics/Setenansicht_12_D1.jpg?raw=true "Title")
+[PDF direkt herunterladen](T2_Assembly_EN_DE.pdf?raw=true)
 
+### Mitgeliefertes Befestigungsmaterial und Werkzeug
 
+| Teil | Anzahl |
+| :--- | ---: |
+| M3×12 Zylinderschrauben mit Innensechskant | 8 |
+| M3×20 Zylinderschrauben mit Innensechskant | 6 |
+| Selbstklebende Silikonpads, Ø 8 mm | 8 |
 
-## Aufbauanleitung T2 <a id="german"></a> ##
-## Material ##
+Benötigt wird ein Innensechskantschlüssel mit 2,5 mm Schlüsselweite (90×50 mm). Alle Schrauben nur handfest anziehen.
 
-
-Anleitung dazu findet ihr hier. 
-
-https://youtu.be/INyY0__D8Ug
-
-
-
-| Schraube | M3x12 | M3x20 | Pads | 
-| :---:   | :---: | :---: | :---: |
-| Anzahl  | 8 | 6  |  8 |
-
-Sind im Lieferumfang vorhanden.
-
-## Werkzeug ## 
-- Imbusschlüssel 2,5mm 
-
-
-## Aufbauanleitung: ##
-
-**Positionierung der Stege:**
-- Achte darauf, dass die Stege so eingebaut werden, dass die schrägen Kanten oben sind und sich somit in der Flucht der Seitenteile befinden. (**Position G**)
-
-![Alt text](pics/Steg_Einbaurichtung_G.jpg?raw=true "Title")
-
-**Anziehen der Schrauben:**
-- Ziehe  die Schrauben nur handfest an, um eine angemessene Stabilität zu gewährleisten.
-
-
-![Alt text](pics/T2_NG.jpg?raw=true "Title")
-
-**Verwendung der Schrauben:**
-- Alle Schrauben, die seitlich verwendet werden, also horizontal, um nur zwei Teile zu verbinden, sollten M3x20 Schrauben sein. (**Position A**)
-
-
-![Alt text](pics/Setenansicht_20_F.jpg?raw=true "Title")
-
-
-Alle Schrauben von **oben** und **hinten** sind M3x12. Für den Imbusschlüssel gibt es vorgefertigte Löcher durch das ganze Bauteil.  (**Position B und D**)
-
-![Alt text](pics/PXL_20240324_134715616_t.jpg?raw=true "Title")
-![Alt text](pics/Setenansicht_12_D.jpg?raw=true "Title")
-![Alt text](pics/Setenansicht_12_D1.jpg?raw=true "Title")
-
+[Aufbauvideo](https://youtu.be/INyY0__D8Ug)
