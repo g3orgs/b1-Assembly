@@ -7,6 +7,8 @@ Assembly Guide [T2_ext (PDF, EN / DE)](T2_ext/) · [▶ Video (YouTube)](https:/
 
 Assembly Guide [T2_octa (PDF, EN / DE)](T2_octa/) · [▶ Video (YouTube)](https://youtu.be/Rk0xiEEh7rw)
 
+Assembly Guide [T3 (PDF, EN / DE)](T3/)
+
 [Measurement-Tutorial](Measurement-Tutorial-FeltProtect/Measurement-Tutorial-FeltProtect.md)
 
 [Kryptex - Coding instructions](Kryptex/Kryptex_coding.md)
@@ -67,3 +69,14 @@ Eine A4-Seite, Englisch mit deutscher Übersetzung. Mit 100 % / tatsächlicher G
 Full HD, English and German on-screen instructions, including a cutaway of the 135 mm crossbar connection. No audio.
 
 Full HD, deutsche und englische Texte, einschließlich Schnittansicht der 135-mm-Stegverbindung. Ohne Ton.
+
+
+## T3 - Assembly instructions / Aufbauanleitung
+
+[Open the T3 folder / T3-Ordner öffnen](T3/)
+
+[Download the EN / DE assembly instructions (PDF, version 1.2)](T3/T3_Assembly_EN_DE.pdf)
+
+Two A4 pages, English first with German below. Print at 100% / actual size; print double-sided to use one sheet. Seven assembly steps with screw axes, ball-end hex key detail and device securing instructions. Issued 16 October 2026.
+
+Zwei A4-Seiten, Englisch mit deutscher Übersetzung. Mit 100 % / tatsächlicher Größe drucken; beidseitig auf einem Blatt. Sieben Montageschritte mit Schraubenachsen, Kugelkopf-Inbus-Detail und Gerätebefestigung. Stand: 16.10.2026.
